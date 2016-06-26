@@ -1,0 +1,22 @@
+c:\users\hafu\documents\visual studio 2015\Projects\BlueDraw 2.0\BlueDraw 2.0\bin\Debug\BlueDraw 2.0.exe.config
+c:\users\hafu\documents\visual studio 2015\Projects\BlueDraw 2.0\BlueDraw 2.0\bin\Debug\BlueDraw 2.0.exe
+c:\users\hafu\documents\visual studio 2015\Projects\BlueDraw 2.0\BlueDraw 2.0\bin\Debug\BlueDraw 2.0.pdb
+c:\users\hafu\documents\visual studio 2015\Projects\BlueDraw 2.0\BlueDraw 2.0\obj\Debug\BlueDraw_2._0.Form1.resources
+c:\users\hafu\documents\visual studio 2015\Projects\BlueDraw 2.0\BlueDraw 2.0\obj\Debug\BlueDraw_2._0.Properties.Resources.resources
+c:\users\hafu\documents\visual studio 2015\Projects\BlueDraw 2.0\BlueDraw 2.0\obj\Debug\BlueDraw 2.0.csproj.GenerateResource.Cache
+c:\users\hafu\documents\visual studio 2015\Projects\BlueDraw 2.0\BlueDraw 2.0\obj\Debug\BlueDraw 2.0.exe
+c:\users\hafu\documents\visual studio 2015\Projects\BlueDraw 2.0\BlueDraw 2.0\obj\Debug\BlueDraw 2.0.pdb
+c:\users\hafu\documents\visual studio 2015\Projects\BlueDraw 2.0\BlueDraw 2.0\bin\Debug\Gma.System.MouseKeyHook.dll
+c:\users\hafu\documents\visual studio 2015\Projects\BlueDraw 2.0\BlueDraw 2.0\obj\Debug\BlueDraw 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Hafu\documents\visual studio 2015\Projects\BlueDraw 2.0\BlueDraw 2.0\obj\Debug\BlueDraw_2._0.Form2.resources
+C:\Users\Jessie\Desktop\Projekty z visual studio\BlueDraw 2.0\BlueDraw 2.0\bin\Debug\BlueDraw 2.0.exe.config
+C:\Users\Jessie\Desktop\Projekty z visual studio\BlueDraw 2.0\BlueDraw 2.0\obj\Debug\BlueDraw 2.0.exe
+C:\Users\Jessie\Desktop\Projekty z visual studio\BlueDraw 2.0\BlueDraw 2.0\obj\Debug\BlueDraw 2.0.pdb
+C:\Users\Jessie\Desktop\Projekty z visual studio\BlueDraw 2.0\BlueDraw 2.0\bin\Debug\BlueDraw 2.0.exe
+C:\Users\Jessie\Desktop\Projekty z visual studio\BlueDraw 2.0\BlueDraw 2.0\bin\Debug\BlueDraw 2.0.pdb
+C:\Users\Jessie\Desktop\Projekty z visual studio\BlueDraw 2.0\BlueDraw 2.0\bin\Debug\Gma.System.MouseKeyHook.dll
+C:\Users\Jessie\Desktop\Projekty z visual studio\BlueDraw 2.0\BlueDraw 2.0\obj\Debug\BlueDraw 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Jessie\Desktop\Projekty z visual studio\BlueDraw 2.0\BlueDraw 2.0\obj\Debug\BlueDraw_2._0.Form1.resources
+C:\Users\Jessie\Desktop\Projekty z visual studio\BlueDraw 2.0\BlueDraw 2.0\obj\Debug\BlueDraw_2._0.Form2.resources
+C:\Users\Jessie\Desktop\Projekty z visual studio\BlueDraw 2.0\BlueDraw 2.0\obj\Debug\BlueDraw_2._0.Properties.Resources.resources
+C:\Users\Jessie\Desktop\Projekty z visual studio\BlueDraw 2.0\BlueDraw 2.0\obj\Debug\BlueDraw 2.0.csproj.GenerateResource.Cache
